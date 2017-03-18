@@ -1,0 +1,29 @@
+
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background: #ffc94f;
+}
+
+p {
+	font-size: 22px;
+}
+
+#container {
+	width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	font-size: 22px;
+	padding-top: 50px;
+
+}
+
+h1 {
+	padding: 90px 0 90px 0;
+	font-size: 50px;
+	color: #05ad67;
+}
