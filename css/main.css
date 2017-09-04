@@ -3,7 +3,7 @@
 /***** BASE STYLES *****/
 
 body {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #about, #work, #contact {
@@ -36,26 +36,29 @@ body {
 /***** HEADER *****/
 
 header {
-	background: url('../img/andy-law-workspace.png') no-repeat;
-	background-position: center;
-	height: 900px; 
-	background-color: #ffc94f;
+	/** background: url('../img/andy-law-workspace.png') no-repeat;
+	background-position: center; **/
+	height: 700px;
+	background-color: rgba(255, 79, 251, 0.12);
+}
 
-	/** 
+;
+
+	/**
 	background-repeat: no-repeat;
-	height: 800px; 
+	height: 800px;
 	**/
 }
 
 header h1 {
-	font-family: "Lora";
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 30px;
 	color: #05ad67;
 	padding: 50px 0;
 }
 
 nav {
-    float: right; 
+    float: right;
     padding: 75px 40px;
 }
 
@@ -68,13 +71,13 @@ nav ul li a {
     text-decoration: none;
     font-size: 18px;
     color: #000000 /**#828282**/;
-    padding-left: 80px; 
+    padding-left: 80px;
 }
 
 header h2 {
     width: 1000px;
     clear: both;
-    font-family: "Lora";
+    font-family: 'Ubuntu', sans-serif;
     font-size: 50px;
     line-height: 80px;
     color: #05ad67 /**#9b9b9b**/;
@@ -92,7 +95,7 @@ header h2 span {
 }
 
 #about h2 {
-	font-family: "Lora";
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 36px;
 	color: #2b2b2b
 }
@@ -130,7 +133,7 @@ header h2 span {
 }
 
 #work p {
-	font-family: "Lora";
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 18px;
 	line-height: 34px;
 	color: #2b2b2b;
@@ -164,7 +167,7 @@ header h2 span {
 }
 
 #contact h2 {
-	font-family: "Lora";
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 36px;
 }
 
@@ -207,31 +210,3 @@ header h2 span {
 	clear: both;
 	text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
