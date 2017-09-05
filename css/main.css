@@ -1,8 +1,8 @@
 
 
-/***** BASE STYLES *****/
 
 body {
+<<<<<<< HEAD
 	font-family: 'Ubuntu', sans-serif;
 }
 
@@ -210,3 +210,12 @@ header h2 span {
 	clear: both;
 	text-align: center;
 }
+=======
+	background-color: #F2F2F2;
+}
+
+.container {
+	width: 50%;
+	padding-left: 20%;
+}
+>>>>>>> 037bb38148f43b68884bba1c02d8142778ed327d
